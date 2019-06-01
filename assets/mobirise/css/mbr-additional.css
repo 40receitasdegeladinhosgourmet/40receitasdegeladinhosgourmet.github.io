@@ -2130,5 +2130,9 @@ body {
   width: 100%;
 }
 .cid-rs1OnoTk0x .media-container-row .mbr-text {
+  color: #cc2952;
+}
+.cid-rs1OnoTk0x foot-menu-item {
   color: #ff3366;
+  text-align: right;
 }
